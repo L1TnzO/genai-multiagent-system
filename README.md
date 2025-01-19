@@ -19,13 +19,19 @@ genai-multiagent-system/
 
 #### Functional Prototype
 
+-
+
+-
 
 #### Cloud Implementation
 
+-
+
+-
 
 ### Technologies
 
-- Agent Frameworks: 
+- Agent Frameworks: LangChain | LangGraph
 - Cloud: 
 
 ### Project Status
